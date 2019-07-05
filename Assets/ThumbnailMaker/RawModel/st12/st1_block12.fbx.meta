@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: d99180388ea8dff4290a278d20cb70cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: st1_block12__mouth
+    100004: st1_block12_apple
+    100006: st1_block12_down
+    100008: st1_block12_eye
+    100010: st1_block12_head
+    100012: st1_block12_head_ad
+    100014: st1_block12_head_box
+    100016: st1_block12_L_eye
+    100018: st1_block12_L_leg
+    100020: st1_block12_leg
+    100022: st1_block12_middle
+    100024: st1_block12_panty
+    100026: st1_block12_R_eye
+    100028: st1_block12_R_leg
+    100030: st1_block12_head_ad2
+    100032: st1_block12_head_ad3
+    400000: //RootNode
+    400002: st1_block12__mouth
+    400004: st1_block12_apple
+    400006: st1_block12_down
+    400008: st1_block12_eye
+    400010: st1_block12_head
+    400012: st1_block12_head_ad
+    400014: st1_block12_head_box
+    400016: st1_block12_L_eye
+    400018: st1_block12_L_leg
+    400020: st1_block12_leg
+    400022: st1_block12_middle
+    400024: st1_block12_panty
+    400026: st1_block12_R_eye
+    400028: st1_block12_R_leg
+    400030: st1_block12_head_ad2
+    400032: st1_block12_head_ad3
+    2100000: st1_block12
+    2300000: st1_block12__mouth
+    2300002: st1_block12_apple
+    2300004: st1_block12_down
+    2300006: st1_block12_head
+    2300008: st1_block12_head_ad
+    2300010: st1_block12_head_box
+    2300012: st1_block12_L_eye
+    2300014: st1_block12_L_leg
+    2300016: st1_block12_middle
+    2300018: st1_block12_panty
+    2300020: st1_block12_R_eye
+    2300022: st1_block12_R_leg
+    2300024: st1_block12_head_ad2
+    2300026: st1_block12_head_ad3
+    3300000: st1_block12__mouth
+    3300002: st1_block12_apple
+    3300004: st1_block12_down
+    3300006: st1_block12_head
+    3300008: st1_block12_head_ad
+    3300010: st1_block12_head_box
+    3300012: st1_block12_L_eye
+    3300014: st1_block12_L_leg
+    3300016: st1_block12_middle
+    3300018: st1_block12_panty
+    3300020: st1_block12_R_eye
+    3300022: st1_block12_R_leg
+    3300024: st1_block12_head_ad2
+    3300026: st1_block12_head_ad3
+    4300000: st1_block12_apple
+    4300002: st1_block12_R_eye
+    4300004: st1_block12_L_eye
+    4300006: st1_block12__mouth
+    4300008: st1_block12_head
+    4300010: st1_block12_head_ad
+    4300012: st1_block12_head_box
+    4300014: st1_block12_middle
+    4300016: st1_block12_down
+    4300018: st1_block12_panty
+    4300020: st1_block12_L_leg
+    4300022: st1_block12_R_leg
+    4300024: st1_block12_head_ad3
+    4300026: st1_block12_head_ad2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st1_block12
+    second: {fileID: 2100000, guid: 1c1802efc6c39f04897b02f7d9b906db, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

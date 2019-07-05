@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: d58da210d7c9825478efdd9eea691a96
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: st1_5_block__down
+    100004: st1_5_block__face
+    100006: st1_5_block_banana
+    100008: st1_5_block_banana1
+    100010: st1_5_block_banana2
+    100012: st1_5_block_banana3
+    100014: st1_5_block_banana4
+    100016: st1_5_block_banana5
+    100018: st1_5_block_banana6
+    100020: st1_5_block_head
+    100022: st1_5_block_head_ad1
+    100024: st1_5_block_head_ad2
+    100026: st1_5_block_L_ear
+    100028: st1_5_block_L_hand
+    100030: st1_5_block_L_leg
+    100032: st1_5_block_middle
+    100034: st1_5_block_panty
+    100036: st1_5_block_R_ear
+    100038: st1_5_block_R_hand
+    100040: st1_5_block_R_leg
+    100042: st1_5_block_tail
+    400000: //RootNode
+    400002: st1_5_block__down
+    400004: st1_5_block__face
+    400006: st1_5_block_banana
+    400008: st1_5_block_banana1
+    400010: st1_5_block_banana2
+    400012: st1_5_block_banana3
+    400014: st1_5_block_banana4
+    400016: st1_5_block_banana5
+    400018: st1_5_block_banana6
+    400020: st1_5_block_head
+    400022: st1_5_block_head_ad1
+    400024: st1_5_block_head_ad2
+    400026: st1_5_block_L_ear
+    400028: st1_5_block_L_hand
+    400030: st1_5_block_L_leg
+    400032: st1_5_block_middle
+    400034: st1_5_block_panty
+    400036: st1_5_block_R_ear
+    400038: st1_5_block_R_hand
+    400040: st1_5_block_R_leg
+    400042: st1_5_block_tail
+    2100000: st1_5 block
+    2300000: st1_5_block__down
+    2300002: st1_5_block__face
+    2300004: st1_5_block_banana1
+    2300006: st1_5_block_banana2
+    2300008: st1_5_block_banana3
+    2300010: st1_5_block_banana4
+    2300012: st1_5_block_banana5
+    2300014: st1_5_block_banana6
+    2300016: st1_5_block_head
+    2300018: st1_5_block_head_ad1
+    2300020: st1_5_block_head_ad2
+    2300022: st1_5_block_L_ear
+    2300024: st1_5_block_L_hand
+    2300026: st1_5_block_L_leg
+    2300028: st1_5_block_middle
+    2300030: st1_5_block_panty
+    2300032: st1_5_block_R_ear
+    2300034: st1_5_block_R_hand
+    2300036: st1_5_block_R_leg
+    2300038: st1_5_block_tail
+    3300000: st1_5_block__down
+    3300002: st1_5_block__face
+    3300004: st1_5_block_banana1
+    3300006: st1_5_block_banana2
+    3300008: st1_5_block_banana3
+    3300010: st1_5_block_banana4
+    3300012: st1_5_block_banana5
+    3300014: st1_5_block_banana6
+    3300016: st1_5_block_head
+    3300018: st1_5_block_head_ad1
+    3300020: st1_5_block_head_ad2
+    3300022: st1_5_block_L_ear
+    3300024: st1_5_block_L_hand
+    3300026: st1_5_block_L_leg
+    3300028: st1_5_block_middle
+    3300030: st1_5_block_panty
+    3300032: st1_5_block_R_ear
+    3300034: st1_5_block_R_hand
+    3300036: st1_5_block_R_leg
+    3300038: st1_5_block_tail
+    4300000: st1_5_block_L_hand
+    4300002: st1_5_block__face
+    4300004: st1_5_block__down
+    4300006: st1_5_block_L_ear
+    4300008: st1_5_block_R_ear
+    4300010: st1_5_block_banana1
+    4300012: st1_5_block_banana2
+    4300014: st1_5_block_banana3
+    4300016: st1_5_block_banana4
+    4300018: st1_5_block_banana5
+    4300020: st1_5_block_banana6
+    4300022: st1_5_block_R_hand
+    4300024: st1_5_block_R_leg
+    4300026: st1_5_block_L_leg
+    4300028: st1_5_block_head_ad1
+    4300030: st1_5_block_head_ad2
+    4300032: st1_5_block_middle
+    4300034: st1_5_block_head
+    4300036: st1_5_block_panty
+    4300038: st1_5_block_tail
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st1_5 block
+    second: {fileID: 2100000, guid: 013208fe33d30e54eb39069de9cdd18b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
